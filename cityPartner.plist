@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://download.16988.com/apk/logo114.png</string>
+                    <string>http://download.16988.com/apk/60pt-@3x.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://download.16988.com/apk/logo57.png</string>
+                    <string>http://download.16988.com/apk/40pt-@2x.png</string>
                 </dict>
             </array>
             <key>metadata</key>
